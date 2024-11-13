@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://slotenmaker-ponnet.be/sitemap.xml
